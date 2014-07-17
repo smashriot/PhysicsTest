@@ -1,0 +1,28 @@
+{"frames": {
+
+"tile2d.png":
+{
+	"frame": {"x":90,"y":6,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"tile3d.png":
+{
+	"frame": {"x":6,"y":6,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":160,"h":76},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f9c168014df67282bc236f5782ac56fb:cc73c2eb869e358ab7c187c46f333d64:17840f73ce45b10c527a42fa1d8093c3$"
+}
+}
